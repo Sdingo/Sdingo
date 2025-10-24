@@ -14,6 +14,7 @@ My journey in computer science (Information Assurance) has led me to develop a p
 |-----------------------------------------------|----------------------------|
 | Static PDF Malware Analysis          | <a href="https://github.com/Sdingo/SentinelLens">SentinelLens</a>|
 | Network Forensics & Threat Hunting| <a href="https://github.com/Sdingo/PacketSentinel?tab=readme-ov-file">PacketSentinel</a>|
+| Python Automation      | <a href="https://github.com/Sdingo/IOC-Checker">IOC Checker </a>|
 
 
 ## Tools
