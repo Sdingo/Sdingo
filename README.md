@@ -12,7 +12,7 @@ My journey in computer science (Information Assurance) has led me to develop a p
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Industrial Control Systems Threat Intelligence     | <a href="https://https://github.com/Sdingo/-OT-SOC-Threat-Intelligence-Translator">OT-SOC Threat Intelligence Translator</a>|
+| Industrial Control Systems Threat Intelligence     | <a href="https://github.com/Sdingo/-OT-SOC-Threat-Intelligence-Translator">OT-SOC Threat Intelligence Translator</a>|
 | Static PDF Malware Analysis          | <a href="https://github.com/Sdingo/SentinelLens">SentinelLens</a>|
 | Network Forensics & Threat Hunting| <a href="https://github.com/Sdingo/PacketSentinel?tab=readme-ov-file">PacketSentinel</a>|
 | Python Automation      | <a href="https://github.com/Sdingo/IOC-Checker">IOC Checker </a>|
