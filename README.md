@@ -6,12 +6,13 @@ I am a Computer Science graduate with a profound interest in technology and a de
 
 ## Objective
 
-My journey in computer science (Information Assurance) has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science (Information Assurance) has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. 
 
 ## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| FinTech Cyber Threat Intelligence | <a href="https://github.com/Sdingo/fintech-threat-taxonomy">Multi-Dimensional Threat Classification Dashboard</a> |
 | Industrial Control Systems Threat Intelligence     | <a href="https://github.com/Sdingo/-OT-SOC-Threat-Intelligence-Translator">OT-SOC Threat Intelligence Translator</a>|
 | Static PDF Malware Analysis          | <a href="https://github.com/Sdingo/SentinelLens">SentinelLens</a>|
 | Network Forensics & Threat Hunting| <a href="https://github.com/Sdingo/PacketSentinel?tab=readme-ov-file">PacketSentinel</a>|
