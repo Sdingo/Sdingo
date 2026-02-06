@@ -15,6 +15,7 @@ Computer Science graduate with a background in Information Assurance seeking to 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Heterogeneous Computing & Performance Modeling | <a href="https://github.com/Sdingo/adaptive-heterogeneous-scheduler">Adaptive-heterogeneous-scheduler</a> |
 | FinTech Cyber Threat Intelligence | <a href="https://github.com/Sdingo/fintech-threat-taxonomy">Multi-Dimensional Threat Classification Dashboard</a> |
 | Industrial Control Systems Threat Intelligence     | <a href="https://github.com/Sdingo/-OT-SOC-Threat-Intelligence-Translator">OT-SOC Threat Intelligence Translator</a>|
 | Static PDF Malware Analysis          | <a href="https://github.com/Sdingo/SentinelLens">SentinelLens</a>|
