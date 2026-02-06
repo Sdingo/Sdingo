@@ -37,6 +37,29 @@ Computer Science graduate with a background in Information Assurance seeking to 
 <img src="https://img.shields.io/badge/-Bro%20IDS-4B275F?style=for-the-badge&logo=Zeek&logoColor=white" />
 </p>
 
+### 💻 Programming & Development
+<p align="center">
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" />
+<img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white" />
+</p>
+
+### 🤖 Machine Learning & Data Science
+<p align="center">
+<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
+<img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white" />
+<img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white" />
+</p>
+
+### 🗄️ Databases & Systems
+<p align="center">
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
+<img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black" />
+<img src="https://img.shields.io/badge/-Windows_Server-0078D6?style=for-the-badge&logo=Windows&logoColor=white" />
+</p>
+
 ### 💻 Endpoint & Static Analysis
 <p align="center">
 <img src="https://img.shields.io/badge/-REMnux-6C757D?style=for-the-badge&logo=Ubuntu&logoColor=white" />
