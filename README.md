@@ -2,11 +2,14 @@
 <a href="https://www.linkedin.com/in/phiwokuhlesdingo/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a Computer Science graduate with a profound interest in technology and a dedication to solving complex problems.
-
 ## Objective
 
-My journey in computer science (Information Assurance) has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. 
+Computer Science graduate with a background in Information Assurance seeking to transition into cybersecurity, specifically targeting a Security Operations Center (SOC) Tier 1 Analyst role. My technical foundation spans cybersecurity operations, systems programming, and machine learning applications. I bring hands-on experience in:
+
+- **Security**: Penetration testing, vulnerability assessment, SIEM (Splunk), MITRE ATT&CK framework, honeypot deployment
+- **Systems**: Performance optimization, heterogeneous computing, adaptive scheduling algorithms  
+- **Programming**: Python, Java, PHP, with emphasis on security automation and system analysis
+
 
 ## Skills
 
